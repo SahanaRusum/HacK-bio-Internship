@@ -30,6 +30,9 @@ Machine learning models integrating digital pathology, molecular pathology, and 
 
 Sammut, S.J., Crispin-Ortuzar, M., Chin, S.F., et al. (2022). Multi-omic machine learning predictor of breast cancer therapy response. *Nature*, 601, 623–629. <https://doi.org/10.1038/s41586-021-04278-5>
 
+**Link for the video: **
+https://www.loom.com/share/de4ff1373b7b4ead985d9eeb3c05463c?sid=360762a2-5f7a-49bb-ac47-8470c8cb87ba
+
 **Contributors**
 
 - **Name:** Sahana Rusum
@@ -42,5 +45,6 @@ Sammut, S.J., Crispin-Ortuzar, M., Chin, S.F., et al. (2022). Multi-omic machine
   **Slack ID:** U07JP8RCZAT
   **Email:** deotimac@gmail.com
 - **Name:** Ramya Ailuri
+- **Slack ID:** Ramya Ailuri 
   **Email:** ramya.ailuri01@gmail.com
 
